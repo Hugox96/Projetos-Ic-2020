@@ -13,5 +13,6 @@ Projetos desenvolvidos na iniciação durante o ano de 2020 para a apresentaçã
 Criar códigos que são capazes de extrair dados e  gerar histogramas é uma função muito importante para o estudo da física de partículas. Por isso, o estudo inicial foi na criação dos 
 códigos que possibilitam a geração de gráficos para a análise de dados.
 
+![treeEx1](https://user-images.githubusercontent.com/62472486/97094186-e2880500-1628-11eb-887d-b417e1750433.png)
 
 
