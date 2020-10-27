@@ -16,4 +16,7 @@ códigos que possibilitam a geração de gráficos para a análise de dados.
 
 <p align="center">
   <img width="400" height="400" src= "https://user-images.githubusercontent.com/62472486/97094186-e2880500-1628-11eb-887d-b417e1750433.png">
-</p>
+</p>r 
+
+Podemos acessar o código acima para gerar histogramas das nossa variaves de interesse, vejamos abaixo:
+
